@@ -1,4 +1,4 @@
-![Hello?]()
+![Hello?](https://github.com/DylanLewisGitHub/Mountain-Mineshafts/blob/main/assets/Surface%20Mineshaft.png)
 
 # Mountain Mineshafts
 Mesa mineshafts now generate in mountains.
