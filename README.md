@@ -1,4 +1,4 @@
-# Mountain-Mineshafts
+# Mountain Mineshafts
 Mesa mineshafts now generate in mountains.
 
 These will replace the normal mineshafts. You can rarely find them peeking out of the base, giving you easy access to the emeralds and other ores that generate there. Just watch out for silverfish...
